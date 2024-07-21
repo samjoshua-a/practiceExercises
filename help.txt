@@ -10,3 +10,13 @@ git commit -am "your-message"
 git branch -M main
 git remote add origin repo-url
 git push -u origin main
+
+...
+git clone repo-url
+...
+git remote set-url origin repo-url
+...
+
+git add .
+git commit -am "your-message"
+git push
