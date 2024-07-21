@@ -1,4 +1,9 @@
 Python 3.12.4
 
 git init
-touch .gitignore
+touch .gitignore (.gitignore  env/)
+git add .
+git commit -am "your-message"
+git branch -M main
+git remote add origin repo-url
+git push -u origin main
