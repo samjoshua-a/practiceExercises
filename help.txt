@@ -1,0 +1,4 @@
+Python 3.12.4
+
+git init
+touch .gitignore
